@@ -1,1 +1,2 @@
-# hello-github-actions
+# Hello GitHub Actions
+## Integrated GitHub Actions
